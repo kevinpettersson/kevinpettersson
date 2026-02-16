@@ -28,6 +28,3 @@ jobs:
                git add stats/github-stats.svg
                git commit -m "Update GitHub stats card" || echo "No changes to commit"
                git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
-
-
-
