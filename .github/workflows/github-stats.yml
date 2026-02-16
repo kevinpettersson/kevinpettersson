@@ -27,7 +27,7 @@ jobs:
                git config --local user.email "github-actions[bot]@users.noreply.github.com"
                git add stats/github-stats.svg
                git commit -m "Update GitHub stats card" || echo "No changes to commit"
-               git push
+               git push git@github.com:kevinpettersson/kevinpettersson.git
 
 
 
