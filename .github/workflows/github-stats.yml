@@ -22,7 +22,7 @@ jobs:
                 mkdir -p stats
                 # Download the GitHub stats card as a static image
                 curl -o stats/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${GITHUB_ACTOR}&show_icons=true&theme=radical"
-
+                curl -o stats/github-top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${GITHUB_ACTOR}&layout=donut&theme=radical"
             - name: Commit and push
               run: |
                 git config --local user.name "github-actions[bot]"
