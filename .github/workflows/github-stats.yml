@@ -4,6 +4,9 @@ on:
     push:
         branches:
             - main
+            # ignore commits by the bot
+        paths-ignore:
+            - 'stats/**'
     schedule:
         - cron: '0 0 * * *'
     
