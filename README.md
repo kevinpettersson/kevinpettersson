@@ -1,9 +1,7 @@
 # Hi, I'm Kevin 👋
 
 ## GitHub Stats
-![Stats](./profile/stats.svg)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=kevinpettersson)
 
 ## Top Languages
-![Top Languages](./profile/top-langs.svg)
-
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kevinpettersson)
