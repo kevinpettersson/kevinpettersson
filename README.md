@@ -1,7 +1,9 @@
 # Hi, I'm Kevin 👋
 
 ## GitHub Stats
-![Kevin's GitHub stats](./stats/github-stats.svg)
+![Stats](./profile/stats.svg)
 
 ## Top Languages
-![Top Languages](./stats/github-top-langs.svg)
+![Top Languages](./profile/top-langs.svg)
+
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
