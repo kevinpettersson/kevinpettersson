@@ -1,7 +1,7 @@
 # Hi, I'm Kevin 👋
 
 ## GitHub Stats
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=kevinpettersson)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=kevinpettersson&theme=github_dark_dimmed&show_icons=true)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kevinpettersson)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kevinpettersson&theme=github_dark_dimmed&show_icons=true)
