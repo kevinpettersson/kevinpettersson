@@ -1,4 +1,4 @@
-# Hi, I'm Kevin 👋
+Hi, I'm Kevin. I'm a Computer Science student at University of Gothenburg.
 
-## GitHub Stats
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=kevinpettersson&theme=github_dark_dimmed&show_icons=true)
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinpettersson&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinpettersson&theme=dracula)|
+|-----|------|
