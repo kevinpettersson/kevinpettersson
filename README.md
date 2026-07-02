@@ -6,10 +6,10 @@
 
 ## 🎓 Education
 
-**Master of Science in High Performance Computer Systems** | Chalmers University of Technology
+**MSc. in High Performance Computer Systems** | Chalmers University of Technology
 *August 2026 – June 2028*
 
-**Bachelor of Science in Computer Science** | University of Gothenburg
+**BSc. in Computer Science** | University of Gothenburg
 *August 2023 – June 2026*
 
 
