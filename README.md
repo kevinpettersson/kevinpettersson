@@ -27,7 +27,3 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-
-
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinpettersson&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinpettersson&theme=dracula)|
-|-----|------|
