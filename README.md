@@ -6,7 +6,7 @@
 
 ## 🎓 Education
 
-**MSc. in High Performance Computer Systems** | Chalmers University of Technology
+**MSc. Student High Performance Computer Systems** | Chalmers University of Technology
 *August 2026 – June 2028*
 
 **BSc. in Computer Science** | University of Gothenburg
