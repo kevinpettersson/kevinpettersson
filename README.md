@@ -6,7 +6,7 @@
 
 ## Education
 
-> ### MSc. Student High Performance Computer Systems
+> ### MSc. Student in High-Performance Computer Systems
 > **Chalmers University of Technology**
 >> *August 2026 – June 2028*
 
