@@ -4,7 +4,7 @@
 
 ---
 
-# Education
+## Education
 
 > ### MSc. Student High Performance Computer Systems
 > **Chalmers University of Technology**
@@ -16,8 +16,9 @@
 > **University of Gothenburg** 
 >> *August 2023 – June 2026*
 
+---
 
-# Languages & Tools
+## Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
