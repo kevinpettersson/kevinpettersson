@@ -4,16 +4,20 @@
 
 ---
 
-## Education
+# Education
 
-**MSc. Student High Performance Computer Systems** | Chalmers University of Technology
-*August 2026 – June 2028*
-
-**BSc. in Computer Science** | University of Gothenburg
-*August 2023 – June 2026*
+> ### MSc. Student High Performance Computer Systems
+> **Chalmers University of Technology**
+>> *August 2026 – June 2028*
 
 
-## Languages & Tools
+
+> ### BSc. in Computer Science
+> **University of Gothenburg** 
+>> *August 2023 – June 2026*
+
+
+# Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
